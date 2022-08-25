@@ -8,11 +8,11 @@ import cart from '../assets/cart.png';
 
 const Navbar = () => {
     return (
-        <nav className="w-screen flex justify-between items-center px-3 py-2">
+        <nav className="w-screen flex justify-between items-center px-3 py-2 md:border-b shadow-sm">
             <a href="!#" className="w-7 h-7 md:hidden">
                 <img src={menu} alt="menu" />
             </a>
-            <a href="!#" className="w-10 h-10 flex items-center">
+            <a href="!#" className="w-10 h-10 flex items-center md:mx-10">
                 <img src={logo} alt="logo" />
                 CLEANING <br/> EXPERT
             </a>
