@@ -1,0 +1,176 @@
+[
+  {
+    "option": ["Sofa Deep Cleaning","House Cleaning","Office Cleaning","Kitchen Deep Cleaning","Bathroom Deep Cleaning","Sanitization","Carpet Cleaning","Chair Cleaning","Glass Cleaning","Carpenters","Painters","Cleaning Services","Pest Control","Packers & Movers","Plumber","Electricians","Ac Service Repair"],
+    "option2": [
+      {
+        "option_name": "Sofa Deep Cleaning",
+        "option_value": ["Select Sofa Deep Cleaning-Options",
+          "Sofa Cleaning - 2 sofa seats",
+          "Sofa Cleaning - 3 sofa seats",
+          "Sofa Cleaning - 4 sofa seats",
+          "Sofa Cleaning - 5 sofa seats",
+          "Sofa Cleaning - 6 sofa seats",
+          "Sofa Cleaning - 7 sofa seats",
+          "Sofa Cleaning - 8 sofa seats",
+          "Sofa Cleaning - 9 sofa seats",
+          "Sofa Cleaning - 10 sofa seats",
+          "Sofa Cleaning > 10 Sofa Seats"]
+      },
+      {
+        "option_name": "House Cleaning",
+        "option_value": ["Select House Cleaning-Options",
+          "Deep Home Cleaning - 1 BHK Vacant",
+          "Deep Home Cleaning - 2 BHK Vacant",
+          "Deep Home Cleaning - 3 BHK Vacant",
+          "Deep Home Cleaning - 4 BHK Vacant",
+          "Deep Home Cleaning - 5 BHK Vacant",
+          "Deep Home Cleaning - 1 BHK Occupied",
+          "Deep Home Cleaning - 2 BHK Occupied",
+          "Deep Home Cleaning - 3 BHK Occupied",
+          "Deep Home Cleaning - 4 BHK Occupied",
+          "Deep Home Cleaning - 5 BHK Occupied",
+          "Deep Home Cleaning - 1 Room Kitchen Set",
+          "Deep Home Cleaning - 1 Room (Upto 200 Sq Ft)",
+          "Deep Home Cleaning - 1 Room 1 Bathroom",
+          "Deep Home Cleaning - 1 Room 1 Balcony",
+          "Deep Home Cleaning - 1 Room 1 Bathroom",
+          "Deep Home Cleaning Villa - 2K-3K sqft",
+          "Deep Home Cleaning Villa - 3K-4K sqft",
+          "Deep Home Cleaning Villa - 4K - 5K sqft",
+          "Deep Home Cleaning Villa - 5K - 6K sqft"]
+      },
+      {
+        "option_name": "Office Cleaning",
+        "option_value": ["Sofa Deep Cleaning","Sofa Deep Cleaning","Sofa Deep Cleaning","Sofa Deep Cleaning"]
+      },
+      {
+        "option_name": "Kitchen Deep Cleaning",
+        "option_value": ["Select Kitchen Cleaning-Options",
+          "Kitchen Cleaning - with Chimney",
+          "Kitchen Cleaning - without Chimney"]
+      },
+      {
+        "option_name": "Bathroom Deep Cleaning",
+        "option_value": ["Select Bathroom Deep Cleaning-Options",
+          "Bathroom cleaning - 1 Bathroom",
+          "Bathroom cleaning - 2 Bathroom",
+          "Bathroom cleaning - 3 Bathroom",
+          "Bathroom cleaning - 4 Bathroom",
+          "Bathroom cleaning - 5 Bathroom",
+          "Bathroom cleaning - 6 Bathroom",
+          "Bathroom cleaning - 6 To 8 Bathrooms",
+          "Bathroom cleaning - 8 To 10 Bathrooms",
+          "Bathroom cleaning -> 10 Bathrooms"]
+      },
+      {
+        "option_name": "Sanitization",
+        "option_value": ["Select Sanitization-Options",
+          "Home Sanitization - 1 BHK",
+          "Home Sanitization - 2 BHK",
+          "Home Sanitization - 3 BHK",
+          "Home Sanitization - 4 BHK",
+          "Home Sanitization - 5 BHK",
+          "Home Sanitization - 1 Room 1 Bathroom",
+          "Home Sanitization - 1 Room Kitchen Set",
+          "Home Sanitization Villa - 2K-3K sqft",
+          "Home Sanitization Villa - 3K-4K sqft",
+          "Home Sanitization Villa - 4K - 5K sqft"]
+      },
+      {
+        "option_name": "Carpet Cleaning",
+        "option_value": ["Select Carpet Cleaning-Options",
+          "Carpet Deep Cleaning - 0-25 Sq Ft",
+          "Carpet Deep Cleaning - 25-50 Sq Ft",
+          "Carpet Deep Cleaning - 50-100 Sq Ft",
+          "Carpet Deep Cleaning - 100-150 Sq Ft",
+          "Carpet Deep Cleaning - 150-250 Sq Ft",
+          "Carpet Deep Cleaning - 250-500 Sq Ft",
+          "Carpet Deep Cleaning - 500-1000 Sq Ft",
+          "Carpet Deep Cleaning - 1000-2000 Sq Ft",
+          "Carpet Deep Cleaning - 2000-5000 Sq Ft",
+          "Carpet Deep Cleaning - 5000-10000 Sq Ft"]
+      },
+      {
+        "option_name": "Chair Cleaning",
+        "option_value": ["Select Chair Cleaning-Options",
+          "Chair Deep Cleaning - 5-10 Chairs",
+          "Chair Deep Cleaning - 10-15 Chair",
+          "Chair Deep Cleaning - 15-20 Chairs",
+          "Chair Deep Cleaning - 20-30 Chairs",
+          "Chair Deep Cleaning - 30-50 Chairs",
+          "Chair Deep Cleaning - 50-75 Chairs",
+          "Chair Deep Cleaning - 75-100 Chairs",
+          "Chair Deep Cleaning->100 Chairs"]
+      },{
+        "option_name": "Glass Cleaning",
+        "option_value": ["Sofa Deep Cleaning","Sofa Deep Cleaning","Sofa Deep Cleaning","Sofa Deep Cleaning"]
+      },{
+        "option_name": "Carpenters",
+        "option_value": ["Sofa Deep Cleaning","Sofa Deep Cleaning","Sofa Deep Cleaning","Sofa Deep Cleaning"]
+      },{
+        "option_name": "Painters",
+        "option_value": ["Sofa Deep Cleaning","Sofa Deep Cleaning","Sofa Deep Cleaning","Sofa Deep Cleaning"]
+      },{
+        "option_name": "Cleaning Services",
+        "option_value": ["Sofa Deep Cleaning","Sofa Deep Cleaning","Sofa Deep Cleaning","Sofa Deep Cleaning"]
+      },{
+        "option_name": "Pest Control",
+        "option_value": ["Sofa Deep Cleaning","Sofa Deep Cleaning","Sofa Deep Cleaning","Sofa Deep Cleaning"]
+      },{
+        "option_name": "Packers & Movers",
+        "option_value": ["Sofa Deep Cleaning","Sofa Deep Cleaning","Sofa Deep Cleaning","Sofa Deep Cleaning"]
+      },
+      {
+        "option_name": "Plumber",
+        "option_value": ["Sofa Deep Cleaning","Sofa Deep Cleaning","Sofa Deep Cleaning","Sofa Deep Cleaning"]
+      },{
+        "option_name": "Electricians",
+        "option_value": ["Sofa Deep Cleaning","Sofa Deep Cleaning","Sofa Deep Cleaning","Sofa Deep Cleaning"]
+      },{
+        "option_name": "Ac Service Repair",
+        "option_value": ["Select AC Service-Options",
+          "Split AC Service - Check-Up",
+          "Split AC Service - Full Service",
+          "Split AC Service - 1 AC Installation",
+          "Split AC Service - 2 AC Installation",
+          "Split AC Service - 3 AC Installation",
+          "Split AC Service - 4 AC Installation",
+          "Split AC Service - 5 AC Installation",
+          "Split AC Service - 1 AC Uninstallation",
+          "Split AC Service - 2 AC Uninstallation",
+          "Split AC Service - 3 AC Uninstallation",
+          "Split AC Service - 4 AC Uninstallation",
+          "Split AC Service - 5 AC Uninstallation",
+          "Window AC Service - Check-Up",
+          "Window AC Service - Full Service",
+          "Window AC Service - 1 AC Installation",
+          "Window AC Service - 2 AC Installation",
+          "Window AC Service - 3 AC Installation",
+          "Window AC Service - 4 AC Installation",
+          "Window AC Service - 5 AC Installation",
+          "Window AC Service - 1 AC Uninstallation",
+          "Window AC Service - 2 AC Uninstallation",
+          "Window AC Service - 3 AC Uninstallation",
+          "Window AC Service - 4 AC Uninstallation",
+          "Window AC Service - 5 AC Uninstallation"]
+      }]
+  }
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
