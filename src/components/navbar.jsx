@@ -16,7 +16,7 @@ const Navbar = () => {
                 <img src={logo} alt="logo" />
                 CLEANING <br/> EXPERT
             </a>
-            <a href="!#" className="w-7 h-7 -mr-14 md:hidden">
+            <a href="!#" className="w-7 h-7 -mr-14 md:hidden ">
                 <img src={whatsapp} alt="whatsapp"/>
             </a>
             <a href="!#" className="w-7 h-7 md:hidden">
@@ -31,7 +31,7 @@ const Navbar = () => {
                     <span>Home Cleaning</span>
                     <img src={down} alt="" className={"w-4 h-4"}/>
                 </div>
-                <div className={"cursor-pointer"}>
+                <div className={"cursor-pointer h-"}>
                     <span>Covid Disinfection</span>
                 </div>
                 <div className={"flex cursor-pointer"}>
